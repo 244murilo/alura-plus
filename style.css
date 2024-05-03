@@ -12,5 +12,8 @@
 
  .principal{
   background-image: url(img/background.png);
+ }
 
+ .container{
+   height: 100vh;
  }
